@@ -7,11 +7,11 @@ st.set_page_config(page_title="Plataforma de Agendamento", layout="centered")
 
 # Cabecalho
 st.title("Sistema de Agendamento Online")
-st.write("Preencha os campos abaixo para realizar a sua marcacao de forma direta.")
+st.write("Preencha os campos abaixo para realizar a sua marcaçao de forma direta.")
 
 st.write("---")
 
-# --- SELECAO DE DATA E HORARIO ---
+# --- SELECIONE DATA E HORARIO ---
 st.subheader("1. Dados do Atendimento")
 
 # Calendario selecionavel configurado no padrao brasileiro (DD/MM/AAAA)
