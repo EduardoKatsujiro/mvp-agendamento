@@ -39,7 +39,7 @@ telefone = st.text_input("Numero do WhatsApp (com DDD):", placeholder="Ex: 47999
 st.write("---")
 
 # --- INTEGRACAO COM O WHATSAPP ---
-WHATSAPP_PROFISSIONAL = "5547999999999" 
+WHATSAPP_PROFISSIONAL = "5547988984242" 
 
 # Botao principal de validacao
 if st.button("Confirmar Horario e Agendar", type="primary", use_container_width=True):
